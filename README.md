@@ -1,0 +1,2 @@
+# MyNextJSApp
+hoge
